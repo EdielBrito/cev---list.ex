@@ -1,0 +1,6 @@
+#crie um programa que leia o quanto uma pessoa tem de dinheiro numa carteira
+# e mostre quantos dolares ela pode comprar.
+
+c = float(input("Quantos reais você deseja trocar por dolar?"))
+s = c//5.25
+print(F"Você pode trocar por {s} Dolares.")
