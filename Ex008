@@ -1,0 +1,6 @@
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+
+metro = float(input("Escreva o valor em metros:"))
+c = metro * 100
+m = metro * 1000
+print(f"Esse valor convertido em centímetros é:{c} \nEsse valor convertido em milímetros é: {m}")
