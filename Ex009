@@ -1,0 +1,14 @@
+#Faça um programa que leia um numero inteiro qualquer e mostre na tela a sua tabuada.
+
+x = int(input("Digite qualquer número:"))
+m = x * 1
+u = x * 2
+l = x * 3
+t = x * 4
+i = x * 5
+p = x * 6
+f = x * 7
+b = x * 8
+c = x * 9
+a = x * 10
+print(f"A tabuada de {x} é: {m}, {u}, {l} ,{t} ,{i} ,{p} ,{f} ,{b} ,{c} , {a}")
